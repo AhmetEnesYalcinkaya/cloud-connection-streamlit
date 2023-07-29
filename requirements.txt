@@ -4,3 +4,4 @@ s3fs
 gcsfs
 streamlit-extras
 streamlit-echarts
+folium
