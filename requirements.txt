@@ -6,3 +6,5 @@ streamlit-extras
 streamlit-echarts
 folium
 streamlit-folium
+google-cloud-bigquery
+google-cloud
