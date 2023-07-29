@@ -5,3 +5,4 @@ gcsfs
 streamlit-extras
 streamlit-echarts
 folium
+streamlit-folium
