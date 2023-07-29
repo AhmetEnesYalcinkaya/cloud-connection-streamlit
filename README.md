@@ -2,4 +2,4 @@
 
 st.experimental_connection : Connect your app to data and APIs
 
-![Açıklama metni]([(https://github.com/AhmetEnesYalcinkaya/cloud-connection-streamlit/blob/main/images/diagram.png raw=true)https://github.com/AhmetEnesYalcinkaya/cloud-connection-streamlit/blob/main/images/diagram.png?raw=true)]
+![kanfkna](https://github.com/AhmetEnesYalcinkaya/cloud-connection-streamlit/blob/main/images/diagram.png raw=true)https://github.com/AhmetEnesYalcinkaya/cloud-connection-streamlit/blob/main/images/diagram.png?raw=true)
