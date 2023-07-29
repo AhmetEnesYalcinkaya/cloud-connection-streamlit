@@ -3,3 +3,4 @@ git+https://github.com/streamlit/files-connection
 s3fs
 gcsfs
 streamlit-extras
+streamlit-echarts
